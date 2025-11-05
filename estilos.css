@@ -1,0 +1,23 @@
+h1 {
+	font-family: arial;
+    color: darkblue;
+    text-align: center;
+}
+
+nav {
+	margin-left: 25px;
+	text-align: center;
+}
+
+h2 {
+	font-family: arial;
+	color: skyblue;
+}
+
+.color {
+	color: royalblue;
+}
+
+#hospital {
+	font-family: monospace;
+}
